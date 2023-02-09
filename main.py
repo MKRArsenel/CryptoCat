@@ -309,4 +309,4 @@ async def upgrade_commands(ctx):
         await ctx.send("https://j.gifs.com/rRkznp.gif")
 
 #Ejecución de los comandos mediante el TOKEN del BOT
-bot.run("MTA1NTkwMzk3MDY2Njc0MTg3MQ.GSLPa_.6Rs6m__gQOEfDP4GevRoMyEukl7HpzqbIhKXOs")
+bot.run("token")
