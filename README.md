@@ -1,5 +1,5 @@
 # CryptoCat
-Bot de discord codeado en Python:
-- Este bot no utiliza la funcionalidad del "/" de discord v13.d debido a que para ello ha de estar codeado en JavaScript.
-- Las funcionalidades están en su fase inicial ya que estoy documentandome tanto sobre el lenguaje como acerca de los métodos que usa Discord para los eventos.
-- Este bot no tiene licencia alguna así que úsalo a tu gusto.
+Discord bot coded in Python:
+- This bot does not use the "/" functionality of discord v13.d because it must be coded in JavaScript to do so.
+- The functionalities are in their initial phase since I am documenting both the language and the methods that Discord uses for events.
+- This bot does not have any license so use it to your liking.
